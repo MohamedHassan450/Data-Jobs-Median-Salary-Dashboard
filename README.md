@@ -25,10 +25,6 @@ The entire project was built using **Microsoft Excel**, including:
 
 This project demonstrates fundamental **data analysis** and **visualization** skills using Excel only, without the need for external tools or coding. It shows how Excel can be utilized effectively to build insightful, interactive dashboards suitable for entry-level data analysis portfolios.
 
-## Screenshot
-
-*(Add a screenshot of your dashboard here to visually showcase the project.)*
-
 ## Author
 
 Created by Mohamed Hassan as part of a personal portfolio to demonstrate beginner-level data analysis and dashboard creation using Microsoft Excel.
