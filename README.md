@@ -1,5 +1,7 @@
 # Data Jobs Salary Analysis
 
+![DashBoard](https://github.com/user-attachments/assets/fc880b8e-a8b5-4049-a629-d4b6b17cbee6)
+
 This project focuses on analyzing and visualizing median salary data for various data-related job titles across different countries.
 
 The entire project was built using **Microsoft Excel**, including:
